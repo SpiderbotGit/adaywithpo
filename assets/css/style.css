@@ -1,3 +1,9 @@
+.gray{
+    background-color: gray;
+}
+.white{
+    background-color: white;
+}
 #logo{
     background: url("../../assets/images/pixel-onion-logo.png");
     background-repeat: no-repeat;
@@ -5,11 +11,15 @@
     background-position: left; 
 }
 .background{
- 
     background: url("../../assets/images/full-banner.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed; 
-    background-size: 100% 70%;
+    background-repeat: no-repeat; 
+    background-position: top; 
+    height: 600px;
+    width: 1170px;
+    padding-right: 150px;
+    padding-left: 150px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .twitter{
     background: url("../../assets/images/ic-twitter-active-24.png");
@@ -18,9 +28,11 @@
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 60%;
+    width: 80%;
 }
-
+p{
+    font-size: 20px;
+}
 td, th {
     border-bottom-style: solid;
     text-align: left;
@@ -28,7 +40,9 @@ td, th {
     border-color:lightgray;
 
 }
-
+.lightblue{
+    background-color: lightblue;
+}
 .border{
     border-top-style: solid;
     border-bottom-style: solid;
