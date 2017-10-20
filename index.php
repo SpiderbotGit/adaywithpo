@@ -19,7 +19,7 @@
       
     </div>
   </header>
-  <section style="border: 1px solid red;">
+  <section>
     <div id="content">
 
       <!-- textarea for input of baby names + button to add and sort -->
