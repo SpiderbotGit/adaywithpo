@@ -1,14 +1,28 @@
-.logo{
-    background: url("../../assets/images/full-banner.jpg");
+#logo{
+    background: url("../../assets/images/pixel-onion-logo.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center; 
-    background-size: 100% 100%;
+    background-position: left; 
 }
 .background{
+ 
     background: url("../../assets/images/full-banner.jpg");
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center; 
-    background-size: 100% 100%;
+    background-attachment: fixed; 
+    background-size: 100% 70%;
+}
+.twitter{
+    background: url("../../assets/images/ic-twitter-active-24.png");
+    background-repeat: no-repeat;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
 }
