@@ -25,10 +25,9 @@
          </tr>
        </table>
       </div>
-
+    </div>
   <footer>
     Footer
-    <div></div>
   </footer>
 </body>
 </html>
