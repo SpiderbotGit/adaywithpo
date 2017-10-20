@@ -1,5 +1,5 @@
 .gray{
-    background-color: gray;
+    background-color: #EEEEEE;
 }
 .white{
     background-color: white;
@@ -25,6 +25,10 @@
     background: url("../../assets/images/ic-twitter-active-24.png");
     background-repeat: no-repeat;
 }
+.baby{
+    background: url("../../assets/images/banner-baby.jpg");
+    background-repeat: no-repeat;
+}
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
@@ -41,7 +45,9 @@ td, th {
 
 }
 .lightblue{
-    background-color: lightblue;
+    background-color: #90CAF9;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 .border{
     border-top-style: solid;

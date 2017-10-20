@@ -21,8 +21,17 @@
            <td>6941</td>
          </tr>
        </table>
+          
       </div>
     </div>
+  <div class="container lightblue">
+      <div class="row">
+           <div class="col-sm-1"></div>
+           <div class="col-sm-4">
+               <img src="../assets/images/banner-baby.jpg">
+           </div>
+      </div>
+   </div>   
   <div class="container white">
       <div class="row">
             <div class="col-sm-1"></div>
