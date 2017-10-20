@@ -3,19 +3,34 @@
 <head>
   <title>A day with Pixel Onion</title>
 
-  <link rel="text/stylesheet" href="css/style.css"/>
-
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
   <header>
-    <div>Pixel Onion logo</div>
-    <div>Site logo</div>
+    <div>
+      
+      <a href="http://www.pixelonion.com/"><img src="assets/images/pixel-onion-logo.png"></a>
+      
+    </div>
   </header>
-  <section>
+  <section style="border: 1px solid red;">
+    <div id="content">
+      <table>
+        <thead>
+          <td>Name</td>
+          <td>Gender</td>
+          <td>ID</td>  
+        </thead>
+      </table>
+
+    </div>
+
     Main content
   </section>
   <footer>
-    Footer
+    <div class="">
+
+    </div>
   </footer>
 </body>
 </html>

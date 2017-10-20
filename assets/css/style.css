@@ -1,3 +1,18 @@
 body {
-  background: transparent;
+  margin: 0;
+}
+
+header{
+  padding: 5px;
+  background-color: white;
+  background-image: url("../images/full-banner.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+
+.content {
+  width: 60%;
+  margin: 0 auto;
+  
 }
