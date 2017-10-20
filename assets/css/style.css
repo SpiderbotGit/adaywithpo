@@ -18,11 +18,18 @@
 table {
     font-family: arial, sans-serif;
     border-collapse: collapse;
-    width: 100%;
+    width: 60%;
 }
 
 td, th {
-    border: 1px solid #dddddd;
+    border-bottom-style: solid;
     text-align: left;
     padding: 8px;
+    border-color:lightgray;
+
+}
+
+.border{
+    border-top-style: solid;
+    border-bottom-style: solid;
 }

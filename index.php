@@ -12,8 +12,8 @@
   </section>
   <div class="container">
       <div class="row">
-        <table>
-         <tr>
+        <table align="center">
+         <tr class="border">
            <th>Name</th>
            <th>Gender</th>
            <th>ID</th>
