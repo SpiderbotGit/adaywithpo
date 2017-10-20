@@ -2,6 +2,9 @@
 <html>
 <head>
   <title>A day with Pixel Onion</title>
+
+  <link rel="text/stylesheet" href="css/style.css"/>
+
 </head>
 <body>
   <header>
