@@ -11,8 +11,11 @@ header{
   background-position: left top;
 }
 
-.content {
-  width: 60%;
+#content {
+  width: 80%;
   margin: 0 auto;
-  
+}
+
+#blue_banner{
+  background-color: blue;
 }
