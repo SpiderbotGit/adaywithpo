@@ -3,6 +3,8 @@
 <head>
   <title>A day with Pixel Onion</title>
     <!-- Style CSS -->
+<script src="assets/js/jquery.js"></script>
+   <script src="assets/js/script.js"></script>
   <link rel="stylesheet" href="assets/css/style.css" type="text/css">
 </head>
 <body>
@@ -11,19 +13,8 @@
     <div><img src="assets/images/full-banner.png" width="100%"/></div>
   </header>
   <section>
-  <!-- Table to show list of baby data-->
-    <table>
-	<thead>
-	<tr>
-	<th>Name</th>
-	<th>Gender</th>
-	<th>ID</th>
-	</tr>
-	</thead>
-	<tbody>
-	<!-- TODO-->
-	</tbody>
-	</table>	
+  <?php include 'form.php';?>
+  
   </section>
   <footer>
     <div class="footer">
@@ -35,7 +26,7 @@
     </table>
     </div>
     <div class="tableStyle">
-    	<table width="50%">
+    	<table width="70%">
         <tr>
         <td>
         <span>You can find us at:</span>
@@ -43,6 +34,11 @@
         </td>
         <td>
         <span>Join Our Community</span>
+		<div class="socialMediaImg">
+		<img class="fbHover" src="assets/images/ic-facebook-inactive-24.png"/>
+		<img src="assets/images/ic-linkedin-inactive-24.png"/>
+		<img src="assets/images/ic-twitter-inactive-24.png"/>
+		</div>
         </td>
         </tr>
         </table>
