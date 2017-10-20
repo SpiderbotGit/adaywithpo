@@ -1,3 +1,14 @@
-body {
-  background: transparent;
+.logo{
+    background: url("../../assets/images/full-banner.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 100% 100%;
+}
+.background{
+    background: url("../../assets/images/full-banner.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: 100% 100%;
 }
