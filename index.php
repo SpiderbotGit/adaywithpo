@@ -3,6 +3,22 @@
     <head>
         <title>A day with Pixel Onion</title>
         <!-- Style CSS -->
+          <style>
+	table {
+    text-align: left;
+	width: 80%;
+	padding: 15px;
+}
+thead tr th{
+border-top: 1px solid black; 
+border-bottom: 1px solid black; 
+ border-collapse:separate; 
+border-spacing:5px 5px;}
+
+tbody tr td{
+	
+}
+</style>
         <link rel="stylesheet" href="assets/css/style.css" type="text/css">
     </head>
     <body>
@@ -12,7 +28,6 @@
         </header>
         <section>
             <?php include 'form.php'; ?>
-            Form
         </section>
         <footer>
             <div style="width80%;padding-left:20%;padding-right:20%;background-color:#90caf9">
