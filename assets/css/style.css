@@ -68,3 +68,35 @@ section {
   display: inline-block;
   vertical-align: middle;
 }
+
+.info_footer {
+  width: 50%;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+
+.f_left {
+  width: 45%;
+  display: inline-block;
+}
+
+.f_left a {
+  color: purple;
+  text-decoration: underline;
+}
+
+.f_right {
+  width: 40%;
+  margin-left: 14%;
+  display: inline-block;
+}
+
+.f_right a {
+  padding-right: 15px;
+}
+
+.f_btm {
+  font-size: 12px;
+  text-align: center;
+  padding-top: 20px;
+}

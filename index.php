@@ -75,6 +75,23 @@
       </p>
       </div>
     </div>
+
+    <div class="info_footer">
+      <div class="f_left">
+        <p style="font-size: 20px;">You can find us at:</p>
+        <p>991C Alexandra Road, #01-13B, Singapore 119971<br/>
+        or you can email us at <a href="mailto:hello@pixelonion.com">hello@pixelonion.com</a>
+      </div>
+      <div class="f_right">
+        <p style="font-size: 20px;">Join our social community</p>
+        <a href="https://www.facebook.com/pixelonion"><img src="assets/images/ic-facebook-inactive-24.png" /></a>
+        <a href="https://twitter.com/pixelonion"><img src="assets/images/ic-linkedin-inactive-24.png" /></a>
+        <a href="https://twitter.com/pixelonion"><img src="assets/images/ic-twitter-inactive-24.png" /></a>
+      </div>
+      <div class="f_btm">
+        &copy; 2017 Pixel Onion Pte Ltd. All Rights Reserved
+      </div>
+    </div>
   </footer>
 </body>
 </html>
