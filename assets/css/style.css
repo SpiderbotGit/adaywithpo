@@ -14,11 +14,34 @@ header {
   padding: 15px 40px;
 }
 
-/* #content {
-  width: 80%;
+section {
+  padding: 20px 0;
+}
+
+#content {
+  width: 50%;
   margin: 0 auto;
 }
 
-#blue_banner{
-  background-color: blue;
-} */
+#inputArea {  
+  padding: 10px 0;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.textArea {
+  width: 50%;
+  border-radius: 5px;
+}
+
+.submitBtn {
+  width: 25%;
+  background-color: purple;
+  border-radius: 5px;
+  color: white;
+  line-height: 35px;
+}
+
+.formfield * {
+  vertical-align: middle;
+}

@@ -29,20 +29,32 @@
     <div id="content">
 
       <!-- textarea for input of baby names + button to add and sort -->
-      <textarea class="form-control" rows="3" id="data" style="width: 200px;"></textarea>
-      <textarea class="form-control" rows="3" id="returnData" style="width: 200px;"></textarea>
-      <button class="btn btn-success" onClick="sort();">Sort</button>
-
-
-
+      <div id="inputArea" class="formfield">
+        <textarea rows="5" id="data" class="textArea"></textarea>
+        <button class="submitBtn" onClick="sort();">Sort the list of names</button>
+      </div>
+      
+      
       <!-- table to display all the records of baby names, gender, id -->
       <table class="table table-hover" id="baby_table">
         <thead>
-          <td class="col-lg-6">Name</td>
-          <td class="col-lg-3">Gender</td>
-          <td class="col-lg-3">ID</td>  
+          <tr>
+            <th class="col-sm-6">Name</th>
+            <th class="col-sm-3">Gender</th>
+            <th class="col-sm-3">ID</th>
+          </tr>
         </thead>
         <tbody>
+          <tr>
+            <td>content</td>
+            <td>content</td>
+            <td>content</td>
+          </tr>
+          <tr>
+            <td>content</td>
+            <td>content</td>
+            <td>content</td>
+          </tr>
           <tr>
             <td>content</td>
             <td>content</td>
