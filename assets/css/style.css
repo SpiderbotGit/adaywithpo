@@ -45,3 +45,26 @@ section {
 .formfield * {
   vertical-align: middle;
 }
+
+.blue_banner{
+  background-color:#90caf9;
+}
+
+.banner_content {
+  width: 50%;
+  padding: 10px 0;
+  margin: 0 auto;
+}
+
+.banner_content img {
+  display: inline-block;
+  width: 40%;
+}
+
+.babyBannerText {
+  font-size: 24px;
+  width: 55%;
+  padding: 5px;
+  display: inline-block;
+  vertical-align: middle;
+}

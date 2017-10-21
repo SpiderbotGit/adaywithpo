@@ -68,10 +68,12 @@
 
   <footer>
     <div class="blue_banner">
+      <div class="banner_content">
       <img src="assets/images/banner-baby.jpg"/>
-      <p>
-        Searching for the perfect name for your baby?
+      <p class="babyBannerText">
+        Searching for the perfect name for your baby? Whether you want something traditional or unusual. We can help you!
       </p>
+      </div>
     </div>
   </footer>
 </body>
